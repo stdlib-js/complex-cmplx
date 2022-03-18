@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/complex-float32": "^0.0.x",
-    "@stdlib/complex-float64": "^0.0.x"
+    "@stdlib/complex-float64": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-instance-of": "^0.0.x",
