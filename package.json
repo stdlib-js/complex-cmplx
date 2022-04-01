@@ -1,0 +1,31 @@
+{
+  "name": "@stdlib/complex-cmplx",
+  "version": "0.0.0",
+  "description": "Create a complex number.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/complex-cmplx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "data",
+    "structure",
+    "complex",
+    "cmplx",
+    "number",
+    "complex128",
+    "complex64"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
