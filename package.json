@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/complex-cmplx",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Create a complex number.",
   "license": "Apache-2.0",
   "author": {
@@ -37,9 +37,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/complex-float32": "^0.1.1",
-    "@stdlib/complex-float64": "^0.1.1",
-    "@stdlib/string-format": "^0.1.1"
+    "@stdlib/complex-float32": "^0.2.0",
+    "@stdlib/complex-float64": "^0.2.0",
+    "@stdlib/string-format": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-instance-of": "^0.1.1",
