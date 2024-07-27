@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import complex from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-cmplx@deno/mod.js';
+import complex from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-cmplx@v0.2.2-deno/mod.js';
 ```
 
 #### complex( real, imag\[, dtype] )
@@ -96,7 +96,7 @@ var z = complex( 5.0, 3.0, 'float32' );
 
 ```javascript
 var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform' ).factory;
-import complex from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-cmplx@deno/mod.js';
+import complex from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-cmplx@v0.2.2-deno/mod.js';
 
 var rand = discreteUniform( -50, 50 );
 
